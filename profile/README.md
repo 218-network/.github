@@ -34,6 +34,10 @@ Caussade is not the brand name.
 | `218-network/foundation-model-cards` | `published` / `scaffolded` | Model-card template and release-readiness scaffold. |
 | `218-network/foundation-dataset-cards` | `published` / `scaffolded` | Dataset-card template, privacy, and sanitation scaffold. |
 | `218-network/foundation-spaces` | `published` / `scaffolded` | Hugging Face Space README and demo-readiness scaffold. |
+| `218-network/neurona-public-docs` | `published` / `scaffolded` | Public-safe NEURONA documentation scaffold. |
+| `218-network/cleanup-data-public` | `published` / `scaffolded` | Public-safe cleanup data schema and sanitation scaffold; no dataset release. |
+| `218-network/schools-public-docs` | `published` / `scaffolded` | Public-safe school documentation and student-data exclusion scaffold. |
+| `218-network/foundation-graph-kit` | `published` / `scaffolded` | Public-safe Mermaid graph standards and template scaffold. |
 | Live programs, schools, NEURONAs, deployments, models, datasets, Spaces, services, or reports | `planned` | No released or live claim is made by the org profile. |
 | Private Foundation operations and sensitive records | `private/not-public` | Excluded from public GitHub. |
 
