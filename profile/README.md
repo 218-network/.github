@@ -28,6 +28,12 @@ Caussade is not the brand name.
 | `218-network/foundation-public-roadmap` | `published` / `scaffolded` | Institutional roadmap and status ledger. |
 | `218-network/foundation-programs-public` | `published` / `scaffolded` | Public-safe program documentation scaffold. |
 | `218-network/foundation-public-reports` | `published` / `scaffolded` | Public report templates and synthetic examples. |
+| `218-network/foundation-huggingface-index` | `published` / `scaffolded` | Hugging Face release index and review-gate scaffold. |
+| `218-network/foundation-doc-templates` | `published` / `scaffolded` | Institutional documentation template scaffold. |
+| `218-network/civic-ai-safety-notes` | `published` / `scaffolded` | Civic AI safety notes and claim-review scaffold. |
+| `218-network/foundation-model-cards` | `published` / `scaffolded` | Model-card template and release-readiness scaffold. |
+| `218-network/foundation-dataset-cards` | `published` / `scaffolded` | Dataset-card template, privacy, and sanitation scaffold. |
+| `218-network/foundation-spaces` | `published` / `scaffolded` | Hugging Face Space README and demo-readiness scaffold. |
 | Live programs, schools, NEURONAs, deployments, models, datasets, Spaces, services, or reports | `planned` | No released or live claim is made by the org profile. |
 | Private Foundation operations and sensitive records | `private/not-public` | Excluded from public GitHub. |
 
